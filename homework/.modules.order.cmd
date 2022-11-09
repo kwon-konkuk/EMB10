@@ -1,1 +1,0 @@
-cmd_/home/kwon/working/EMB10/homework/modules.order := {   echo /home/kwon/working/EMB10/homework/seg_driver.ko;   echo /home/kwon/working/EMB10/homework/button_driver.ko; :; } | awk '!x[$$0]++' - > /home/kwon/working/EMB10/homework/modules.order
